@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sou estudante de Técnico em Informática para Web, estou aprendendo Front-End e me apaixonando cada vez mais por tecnologia! 🎮✨</h3>
+<h3 align="left">Sou estudante de Técnico em Informática para Web, estou aprendendo Front-End e estou me apaixonando cada vez mais por tecnologia! 🎮✨</h3>
 
 ###
 
