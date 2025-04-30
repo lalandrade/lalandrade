@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Lavinia! 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=35&duration=4000&pause=1000&color=9769F7&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Lav%C3%ADnia" alt="Typing SVG" /></a>
 
 ###
 
