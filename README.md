@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sou estudante de Técnico em Informática para Web, estou aprendendo Front-End e estou me apaixonando cada vez mais por tecnologia! 🎮✨</h3>
+<h3 align="left">"Sou estudante de Técnico em Informática para Web, estou aprendendo Front-End e me apaixonando cada vez mais por tecnologia! 🎮✨</h3>
 
 ###
 
@@ -54,8 +54,16 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalandrade/lalandrade/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lalandrade/lalandrade/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lalandrade/lalandrade/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lalandrade/count.svg?"/>
+  <img src="https://profile-counter.glitch.me/lalandrade/count.svg?"  />
 </div>
 
 ###
