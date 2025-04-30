@@ -1,4 +1,4 @@
-<img align="right" alt="GIF animado" height="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o4ZGdwMXM3cmpqbDNpOXkwZjVteHI4NW15MmltemN3Z2NobnJkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4IY7zQdRh7Ow/giphy.gif">
+<img align="right" alt="GIF animado" height="270px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o4ZGdwMXM3cmpqbDNpOXkwZjVteHI4NW15MmltemN3Z2NobnJkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4IY7zQdRh7Ow/giphy.gif">
 
 
 
@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="left">Sou estudante de Técnico em Informática para Web, estou aprendendo Front-End e me apaixonando cada vez mais por tecnologia!🎮✨</h4>
+<h3 align="left">Sou estudante de Técnico em Informática para Web, estou aprendendo Front-End e me apaixonando cada vez mais por tecnologia!🎮✨</h3>
 
 <br>
 <br>
